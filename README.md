@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Umair Ali Chaudhry
 
 ## 💻 About Me
-Computer Science graduate and **AI/ML enthusiast** building practical, working products — from web & mobile apps to AI-powered tools and automated workflows. Incoming Intern @ [NETSOL Technologies](https://github.com/netsol-research).
+Computer Science graduate and **AI/ML enthusiast** building practical, working products — from web & mobile apps to AI-powered tools and automated workflows. Intern @ [NETSOL Technologies](https://github.com/netsol-research).
 
 - 🔭 Currently exploring: AI-integrated apps, automation with **n8n**, and applied Machine Learning
 - 🌱 Learning: Machine Learning algorithms, React Native, and workflow automation

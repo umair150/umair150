@@ -6,7 +6,6 @@ Computer Science graduate (UMT Lahore) working in QA automation, with a long-ter
 - 🔭 Currently exploring: AI-integrated apps, LLM-driven test automation, and applied Machine Learning
 - 🌱 Learning: Machine Learning algorithms, async Python, and workflow automation with n8n
 - 💬 Ask me about: QA automation, AI/ML, web development, or setting up your own project
-- 🎓 Next: Master of IT (AI & Data Science) at Murdoch University, Perth, 2027
 - ⚡ Fun fact: I blend tech and creativity: coding by day, designing by night
 
 ## 🚀 Featured Projects

@@ -10,7 +10,7 @@ Computer Science graduate (UMT Lahore) working in QA automation, with a long-ter
 - ⚡ Fun fact: I blend tech and creativity: coding by day, designing by night
 
 ## 🚀 Featured Projects
-- **[NutriAI – Smart Nutrition App](https://github.com/umair150/NutriAI)**: Final year project. Flutter app with ML calorie prediction (MLP), medically-aware meal planning (KNN), and YOLOv8 camera food recognition.
+- **[NutriAI – Smart Nutrition App](https://github.com/umair150/NutriAI-FYP.git)**: Final year project. Flutter app with ML calorie prediction (MLP), medically-aware meal planning (KNN), and YOLOv8 camera food recognition.
 - **[ParaBank-Automation](https://github.com/umair150/ParaBank-Automation)**: Async Playwright + pytest-bdd framework with UI, REST API and UI↔API cross-validation suites, plus a Claude-powered browser agent.
 
 ## 🛠️ Tech Stack
